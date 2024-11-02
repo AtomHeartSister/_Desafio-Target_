@@ -21,5 +21,5 @@ def Inversao(frase):
 
 minhaFrase=input("Escreva algo:  ")
 
-I
-nversao(minhaFrase)
+
+Inversao(minhaFrase)
