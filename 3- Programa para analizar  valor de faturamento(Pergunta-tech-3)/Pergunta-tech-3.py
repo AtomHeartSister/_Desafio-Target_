@@ -47,9 +47,9 @@ for verificar in dado:
         
         superouDia=superouDia+1
         
-print("O maior faturamento foi ", maiorFaturamento,"no dia ",maDia)
+print("O maior faturamento foi: R$", maiorFaturamento,",no dia",maDia)
 
-print("O menor faturamento foi ", menorFaturamento,"no dia ",meDia)
+print("O menor faturamento foi R$", menorFaturamento,",no dia",meDia)
 
 print("Número de dias que superaram a média:",superouDia)
 
